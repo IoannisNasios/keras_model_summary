@@ -20,7 +20,7 @@ Keras library's collection of pre-trained models doesn' t contain some models th
 From keras package (keras.applications)
 
 | Model | Features |
---- | --- | ---
+--- | --- | --- |
 |DenseNet121 | 1024|
 |DenseNet169 | 1664|
 |DenseNet201 | 1920|
@@ -39,7 +39,7 @@ From keras package (keras.applications)
 From image-classifiers package (classification_models)
 
 | Model | Features |
---- | --- | ---
+--- | --- | --- |
 |Resnet18 | 512|
 |Resnet34 | 512|
 |Resnet101 | 2048|
